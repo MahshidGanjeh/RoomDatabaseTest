@@ -1,0 +1,10 @@
+SELECT distinct user_name FROM comment JOIN user JOIN post WHERE postId =1 
+
+SELECT COUNT(*) FROM comment WHERE userId=1
+
+SELECT * FROM comment WHERE userId=1
+
+SELECT * FROM comment WHERE postId=1
+
+
+
